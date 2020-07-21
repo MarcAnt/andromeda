@@ -1,2 +1,2 @@
-# prueba-suny
-Prueba de sitio estático de Suny
+# Andrómeda
+Prueba de sitio estático de Andrómeda
