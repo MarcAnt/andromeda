@@ -88,6 +88,8 @@
 
 .contacto {
     font-size: 1.5em;
+    color: gray;
+    /* text-shadow: 1px 1px 5px black; */
 }
 
 
@@ -204,7 +206,8 @@
 
     }
     .nudeTwo {
-        display: none;
+        display: block;
+        width: 100%;
     }
     .pagos {
         height: 80vh;
@@ -261,7 +264,7 @@
     .section .content {
         flex-direction: column;
         justify-content: center;
-        font-size: .8em;
+        font-size: .6em;
         height: 100vh;
     }
     
@@ -278,7 +281,8 @@
 
     }
     .nudeTwo {
-        display: none;
+        display: block;
+        width: 100%;
     }
     .pagos {
         height: 80vh;
@@ -317,7 +321,7 @@
     }
 
     .contacto p {
-        margin: .3em;
+       
         font-size: 1.2em;
     }
 
@@ -345,11 +349,16 @@
 
     
     .intro  {
-        margin: 0;
+        margin: 1em;
         width: 60%;
     }
+    .intro span {
+        display: block;
+        margin-top: .5em;
+    }
     .nudeTwo {
-        display: none;
+        display: block;
+        width: 100%;
     }
 
     .pagos {
